@@ -26,3 +26,13 @@
   $ sudo apt-get install git  
 - Verification  
   $ git --version  
+  
+# Configuration
+- Username  
+  $ git config --global user.name \<username\>  
+  ex : git config --global user.name HappyDog  
+- Email  
+  $ git config --global user.email \<email\>  
+  ex : git config --global user.email happydog@gmail.com  
+- Verification  
+  $ git config --list  
