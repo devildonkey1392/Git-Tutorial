@@ -47,6 +47,7 @@ Right-click in a target directory and click *Git Bash Here* to create a terminal
 
 # Commands
 - git clone \<repo\>  
+  This cmd aims to download a repo.  
   1. Copy the source of a repository in github.  
   <br/>![image](https://github.com/devildonkey1392/Git-Tutorial/blob/main/Pic/clone_1.png)  
   2. Clone this repository via command.  
