@@ -46,10 +46,22 @@ Right-click in a target directory and click *Git Bash Here* to create a terminal
 <br/>![image](https://github.com/devildonkey1392/Git-Tutorial/blob/main/Pic/cmdline.png)  
 
 # Commands
-- git clone \<repo\>  
-  This cmd aims to download a repo.  
+- Clone a repository  
+  $ git clone \<repo\>  
   1. Copy the source of a repository in github.  
   <br/>![image](https://github.com/devildonkey1392/Git-Tutorial/blob/main/Pic/clone_1.png)  
   2. Clone this repository via command.  
   <br/>![image](https://github.com/devildonkey1392/Git-Tutorial/blob/main/Pic/clone_2.png)  
-- 
+- Push a revision to your repository  
+  - Add revised files  
+    $ git add \<file1\> \<file2\> ...  or git add . (. means all revised files)  
+  - Commit this revision  
+    $ git commit -m "\<your comment\>"  
+  - Push this revision to your repository  
+    $ git push  
+  1. </br>![image](https://github.com/devildonkey1392/Git-Tutorial/blob/main/Pic/push_1.png)  
+  2. </br>![image](https://github.com/devildonkey1392/Git-Tutorial/blob/main/Pic/push_2.png)  
+  3. </br>![image](https://github.com/devildonkey1392/Git-Tutorial/blob/main/Pic/push_3.png)  
+- Pull the latest version from the repository  
+  If you are co-working, you must retrieve the latest version in your repository before you push a revision.  
+  $ git pull  
