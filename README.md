@@ -26,6 +26,10 @@
   $ sudo apt-get install git  
 - Verification  
   $ git --version  
+
+# Command Line in Windows  
+Right-click in a target directory and click *Git Bash Here* to create a terminal.  
+<br/>![image](https://github.com/devildonkey1392/Git-Tutorial/blob/main/Pic/cmdline.png)  
   
 # Configuration
 - Username  
@@ -41,10 +45,6 @@
 1. ![image](https://github.com/devildonkey1392/Git-Tutorial/blob/main/Pic/repo_1.png)  
 2. ![image](https://github.com/devildonkey1392/Git-Tutorial/blob/main/Pic/repo_2.png)  
   
-# Command Line in Windows  
-Right-click in a target directory and click *Git Bash Here* to create a terminal.  
-<br/>![image](https://github.com/devildonkey1392/Git-Tutorial/blob/main/Pic/cmdline.png)  
-
 # Commands
 - Clone a repository  
   $ git clone \<repo\>  
