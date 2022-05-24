@@ -46,3 +46,12 @@ Right-click in a target directory and click *Git Bash Here* to create a terminal
   
 ![image](https://github.com/devildonkey1392/Git-Tutorial/blob/main/Pic/cmdline.png)  
 
+# Commands
+- git clone \<repo\>  
+  1. Copy the source of a repository in github.  
+  
+  ![image](https://github.com/devildonkey1392/Git-Tutorial/blob/main/Pic/clone_1.png)  
+  2. Clone this repository via command.  
+  
+  ![image](https://github.com/devildonkey1392/Git-Tutorial/blob/main/Pic/clone_2.png)  
+- 
