@@ -36,3 +36,8 @@
   ex : git config --global user.email happydog@gmail.com  
 - Verification  
   $ git config --list  
+  
+# Repository Creation in Github
+1. ![image](https://github.com/devildonkey1392/Git-Tutorial/blob/main/Pic/repo_1.png)  
+2. ![image](https://github.com/devildonkey1392/Git-Tutorial/blob/main/Pic/repo_2.png)  
+
